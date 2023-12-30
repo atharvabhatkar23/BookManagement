@@ -1,0 +1,8 @@
+#searchbook{
+    width:150px;
+    background-color: transperent;
+    transition: width 700ms ease-in-out;
+}
+#searchbook:focus{
+    width: 80%;
+}
